@@ -15,7 +15,7 @@ import {
   TouchableWithoutFeedback,
 } from "react-native";
 
-import backgroundImg from "../../../assets/img/background.jpg";
+import backgroundImg from "../../assets/img/background.jpg";
 import SvgAddButton from "../../assets/svg/SvgAddButton";
 
 const RegistrationScreen = () => {
@@ -127,7 +127,6 @@ const RegistrationScreen = () => {
                 style={{
                   ...styles.input,
                   ...styles.inputLast,
-
                   backgroundColor:
                     currentFocused === "password" ? "#ffffff" : "#f6f6f6",
                   borderColor:
@@ -204,7 +203,7 @@ const styles = StyleSheet.create({
   title: {
     fontFamily: "Roboto",
     fontStyle: "normal",
-    fontWeight: 500,
+    fontWeight: "500",
     fontSize: 30,
     lineHeight: 35,
     textAlign: "center",

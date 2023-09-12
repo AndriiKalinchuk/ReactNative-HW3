@@ -12,7 +12,7 @@ import {
   TouchableWithoutFeedback,
 } from "react-native";
 
-import backgroundImg from "../../../assets/img/background.jpg";
+import backgroundImg from "../../assets/img/background.jpg";
 
 const LoginScreen = () => {
   const [email, setEmail] = useState("");
@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
   title: {
     fontFamily: "Roboto",
     fontStyle: "normal",
-    fontWeight: 500,
+    fontWeight: "500",
     fontSize: 30,
     lineHeight: 35,
     textAlign: "center",
