@@ -14,3 +14,13 @@
 Макет компонента LoginScreen
 
 Макет компонента LoginScreen з відкритою клавіатурою
+
+Result
+
+![reg-keyboard](assets/screenshots/12.09.2023_18.33.56_REC.png)
+
+![reg](assets/screenshots/12.09.2023_18.36.35_REC.png)
+
+![log](assets/screenshots/12.09.2023_18.39.00_REC.png)
+
+![log-keyboard](assets/screenshots/12.09.2023_18.38.25_REC.png)
